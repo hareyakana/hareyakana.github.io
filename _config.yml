@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Ken Lee"
-description              : &description "personal description"
+description              : &description "Known as Danny to close friends, Ken for professional purposes"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hareyakana/hareyakana.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ken Keong LEE"
   avatar           : "profile.png"
-  bio              : "Ph.d student at Department of Physics, Graduate School of Science, Osaka University"
+  bio              : "Ph.D student at Department of Physics, Osaka University"
   location         : "Osaka, Japan"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
