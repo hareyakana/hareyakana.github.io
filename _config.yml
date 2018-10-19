@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Ken Lee"
-description              : &description "Known as Danny to close friends, Ken for professional purposes"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student at Department of Physics, Osaka University"
+url                      : https://hareyakana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hareyakana/hareyakana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Ken Keong LEE"
   avatar           : "profile.png"
-  bio              : "Ph.D student at Department of Physics, Osaka University"
+  bio              : "Personal webpage in development, base template from academicpages.github.io"
   location         : "Osaka, Japan"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "ken@km.phys.sci.osaka-u.ac.jp, kkl2g12@soton.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/danny.lee2k"
   foursquare       :
-  github           : "hareyakana"
+  github           : "https://github.com/hareyakana"
   google_plus      :
   keybase          :
   instagram        :
