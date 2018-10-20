@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rambling, Research, Review..."
+title                    : "Rambling, Research..."
 title_separator          : "-"
 name                     : &name "Ken Lee"
 description              : &description "PhD student at Department of Physics, Osaka University"

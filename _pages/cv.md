@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A levels, Tunku Abdul Rahman College, Malaysia, 2011
+* MPhys, University of Southampton, United Kingdom, 2016
+* Ph.D in Experimental Physics, Osaka University, Japan, ~2019/2020 (expected/uncertain)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2014: Intership at Oxford Instruments
+  * Funded by Excel Southampton
+  * Under the umbrella of SEPnet Summer Intership Program
+  * Presented Intership work at SEPnet Poster Exhibition 2014(London)
+  * Shrink fit studies of superconducting magnets for cryogenics systems.
+  * Supervised by Daniel Strange
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Scholarships/Fundings recieved
+======
+* Full tuition exemption for A levels studies at Tunku Abdul Rahman College
+* ~£12,000 Undergraduate Merit Scholarship at Southampton University
+* ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operation and maintainance of dry dilution refrigerator
+* Development of cryogenic calorimeter for rare decay detection
+* Maching learning in experimental physics
 
 Publications
 ======
