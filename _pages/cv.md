@@ -27,16 +27,16 @@ Work experience
 Scholarships/Fundings recieved
 ======
 * Full tuition exemption for A levels studies at Tunku Abdul Rahman College
-* ~£12,000 Undergraduate Merit Scholarship at Southampton University
+* ~£12,000 Undergraduate Merit Scholarship at University of Southampton
 * ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University
 
-Skills
+Experience
 ======
 * Operation and maintainance of dry dilution refrigerator
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
