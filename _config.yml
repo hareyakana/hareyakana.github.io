@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ken Keong LEE"
-  avatar           : "https://hareyakana.github.io/images/danny.png"
+  avatar           : "images/danny.png"
   bio              : "Personal webpage in development, base template from academicpages.github.io"
   location         : "Osaka, Japan"
   employer         :
