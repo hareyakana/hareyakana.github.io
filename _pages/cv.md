@@ -13,6 +13,7 @@ Education
 ======
 * A levels, Tunku Abdul Rahman College, Malaysia, 2011
 * MPhys, University of Southampton, United Kingdom, 2016
+  *"Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
 * Ph.D in Experimental Physics, Osaka University, Japan, ~2019/2020 (expected/uncertain)
 
 Work experience
@@ -35,6 +36,8 @@ Experience
 * Operation and maintainance of dry dilution refrigerator
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
+* ..... to be added
+
 
 <!-- Publications
 ======
