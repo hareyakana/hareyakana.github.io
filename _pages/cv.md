@@ -31,11 +31,12 @@ Scholarships/Fundings recieved
 * ~£12,000 Undergraduate Merit Scholarship at University of Southampton
 * ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University
 
-Experience
+Research Experience
 ======
 * Operation and maintainance of dry dilution refrigerator
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
+* KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
 * ..... to be added
 
 
