@@ -36,6 +36,7 @@ Research Experience
 * Operation and maintainance of dry dilution refrigerator
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
+* Undetaken Shift work at Kamioka Observatory, ~3+ months (culmulative)
 * KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
 * ..... to be added
 
