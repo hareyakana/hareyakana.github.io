@@ -27,9 +27,9 @@ Work experience
 
 Scholarships/Fundings recieved
 ======
-* Full tuition exemption for A levels studies at Tunku Abdul Rahman College
-* ~£12,000 Undergraduate Merit Scholarship at University of Southampton
-* ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University
+* Full tuition exemption for A levels studies at Tunku Abdul Rahman College (2011-2012)
+* ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
+* ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University(2016-2019)
 
 Research Experience
 ======
