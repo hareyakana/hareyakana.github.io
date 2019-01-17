@@ -36,10 +36,16 @@ Here I am going to explore this aspect of a Variational Auto-encoder(VAE) where 
 
 Training the VAE
 ====
-To train the VEA, I used actual waveforms from raw uncut dataset from experiment. 
+The goal of the VAE is to reproduce the waveform of a single events. Therefore the only information that will be fed into the VAE is the waveform only. To train the VEA, I used actual waveforms from raw uncut dataset from experiment.(~50,000 waveform)
+
 ![train]
 
+To ensure every node in the VAE is properly trained, I made additional training data by flipping the waveform backwards, randomly shift the pulse randomly and generate pure noise (np.flip/np.roll/np.shuffle). At the end I have about ~200,000 waveforms that can be used to train the VEA. In a batch of 200 waveform, the VAE was train with 20 epoch so that VAE reaches a steady state. It is not necessary that the VAE to reproduce the waveform perfectly but sufficiently captures the features of the waveforms in its latent variable.
+
+![vae]
 
 [sharp]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/noise.png
 [vis]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/sketchblog.png
 [train]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/train.png
+[vae]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/vae.png
+
