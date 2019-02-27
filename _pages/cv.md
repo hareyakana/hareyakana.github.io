@@ -33,11 +33,12 @@ Scholarships/Fundings recieved
 
 Research Experience
 ======
-* Operation and maintainance of dry dilution refrigerator
+* Operation and maintainance of dry dilution refrigerator (includes high vacuum systems)
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
 * Undetaken Shift work at Kamioka Observatory, ~3+ months (culmulative)
 * Design and manufacturing of PCBs.
+* Operation of wire bonder
 * KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
 * ..... to be added
 
