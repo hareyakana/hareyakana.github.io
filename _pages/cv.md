@@ -33,7 +33,7 @@ Scholarships/Fundings recieved
 
 Research Experience
 ======
-* Operation and maintainance of dry dilution refrigerator (includes high vacuum systems)
+* Operation and maintainance of dry/cryofree dilution refrigerator (includes high vacuum systems)
 * Development of cryogenic calorimeter for rare decay detection
 * Maching learning in experimental physics
 * Undetaken Shift work at Kamioka Observatory, ~3+ months (culmulative)
