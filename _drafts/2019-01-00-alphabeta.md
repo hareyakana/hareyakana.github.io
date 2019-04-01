@@ -103,14 +103,29 @@ The plots below shows if the labelling of the data done based on the distributio
 
 Applying to Actual dataset
 ====
-This is a dataset where events happens nears the region of interest based on the reconstructed energy parameter from the waveforms. This energy parameter is primarily based on the height and area under the pulse as these two attributes is proportional to the energy release per events and the amount of scintillating light.
+To see how well this perform in an actual physics experiment dataset, I apply the same VAE and visualise the latent variable with the same method as mentioned above. Primarily goal here is to see whether clustering of data can be formed where the VAE learns the dataset features based solely on the waveform information only. The t-SNE plot is as shown
 
 ![roi]
 
+At first glance, we can see many clusters of data forming but as t-SNE is only a visualise the data in 2dimensional space, we cannot conclude about the formation of the clusters seen. 
+
 Comparing to curve fitting method
 ====
+Here I labelled each data point according the distribution of the $\chi^2$ parameter.
+
 ![roipsd]
 
+![roipsd1]
+
+![roipsd7]
+
+Is the latent variable learned by VAE comparable to the standard well crafted parameters made by physcist?
+====
+
+Can we draw parallel of this method to the conventional raw->reconstruction->signal???
+====
+
+====
 
 training VAE with GAN
 ====
@@ -140,4 +155,6 @@ Aspects to consider:-
 [3dist]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/3distribution.png
 [roi]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/tsneroi.png
 [roipsd]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/tsneroipsd.png
+[roipsd1]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/roipsd1.png
+[roipsd7]: https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/roipsd7.png
 
