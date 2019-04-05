@@ -119,8 +119,24 @@ Here I labelled each data point according the distribution of the $\chi^2$ param
 
 ![roipsd7]
 
-Is the latent variable learned by VAE comparable to the standard well crafted parameters made by physcist?
+In the t-SNE map, we can see there is that latent variable learnt by the VAE is is able to group shape that are similar. It is possible to use the latent variable of the VAE for event selection. This open up the opportunity to fully categorize the physics data and possible for the use in anomally detection to search for rare "out of the group" type of data. 
+
+Comparing latent variables to conventional parameters
 ====
+High energy events
+----
+
+Event positions
+----
+
+Event time lags**
+----
+The time difference between two event(comparing to the event before)
+
+Energy corrections**
+----
+
+
 
 Can we draw parallel of this method to the conventional raw->reconstruction->signal???
 ====
