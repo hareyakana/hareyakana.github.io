@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Rambling, Research..."
+locale                   : "en-UK"
+title                    : "Ken Lee Hideout"
 title_separator          : "-"
 name                     : &name "Ken Lee"
 description              : &description "PhD student at Department of Physics, Osaka University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ken Keong LEE"
   avatar           : "https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/danny.png"
-  bio              : "Physics PhD student at Osaka University. Interest:Experimental physics, Neutrino physics, Machine Learning, Bolometers"
+  bio              : "Looking for new opportunity"
   location         : "Osaka, Japan"
   employer         :
   googlescholar    : 
