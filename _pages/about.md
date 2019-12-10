@@ -22,7 +22,7 @@ Previous Research Project/Experiences
 * Shrink fit design and testing of cryogenic superconducting magnet 
 * Undergraduate dissertation on Plasmonics, Photonics
 * Extensive research and understanding in the area of neutrino physics, low-background physics
-* Volunteer in 2 separates occasion in facilitating English camp for underprivileged primary school children in Thailand.
+* Volunteered in 2 separates occasion in facilitating English camp for underprivileged primary school children in Thailand.
 
 About myself
 ======

@@ -14,7 +14,7 @@ Education
 * A levels, Tunku Abdul Rahman College, Malaysia, 2011
 * Master of Physics, University of Southampton, United Kingdom, 2016
   * "Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
-* Ph.D in Experimental Physics, Osaka University, Japan, ~2019/2020 (expected)
+* Ph.D in Experimental Physics, Osaka University, Japan, ~2019/2020 (not completing)
 
 Work experience
 ======
@@ -41,11 +41,11 @@ Research Experience
 * Operation of wire bonder
 * KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
 
-Publications
+Conferences
 ======
-*  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* "Development of Scintillating Bolometer for CANDLES"(poster) co-authored at International workshop on Revealing the history of the universe with underground particle and nuclear research Tohoku 2019
+* "Bolometer Development using Neutron Transmutation Doped Ge in CANDLES for the study of Neutrinoless Double Beta Decay" main presenter at JPS Autumn 2019 Meeting
+* "Status of 48Ca double beta decay search and its future prospect in CANDLES" co-presenter at TAUP 2019
   
 Volunteering Experiences
 ======
