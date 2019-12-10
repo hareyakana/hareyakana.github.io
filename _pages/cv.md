@@ -12,20 +12,20 @@ redirect_from:
 Education
 ======
 * A levels, Tunku Abdul Rahman College, Malaysia, 2011
-* MPhys, University of Southampton, United Kingdom, 2016
+* Master of Physics, University of Southampton, United Kingdom, 2016
   * "Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
 * Ph.D in Experimental Physics, Osaka University, Japan, ~2019/2020 (expected)
 
 Work experience
 ======
-* Summer 2014: Intership at Oxford Instruments
+* Summer 2014: Internship at Oxford Instruments
   * Funded by Excel Southampton
-  * Under the umbrella of SEPnet Summer Intership Program
-  * Presented Intership work at SEPnet Poster Exhibition 2014(London)
+  * Under the umbrella of SEPnet Summer Internship Program
+  * Presented Internship work at SEPnet Poster Exhibition 2014(London)
   * Shrink fit studies of superconducting magnets for cryogenics systems.
   * Supervised by Daniel Strange
 
-Scholarships/Fundings recieved
+Scholarships/Funding received
 ======
 * Full tuition exemption for A levels studies at Tunku Abdul Rahman College (2011-2012)
 * ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
@@ -33,23 +33,26 @@ Scholarships/Fundings recieved
 
 Research Experience
 ======
-* Operation and maintainance of dry/cryofree dilution refrigerator (includes high vacuum systems)
+* Operation and maintenance of dry/cryo-free dilution refrigerator (includes high vacuum systems)
 * Development of cryogenic calorimeter for rare decay detection
-* Maching learning in experimental physics
-* Undetaken Shift work at Kamioka Observatory, ~3+ months (culmulative)
+* Machine learning in experimental physics
+* Undertaken Shift work at Kamioka Observatory, ~3+ months (cumulative)
 * Design and manufacturing of PCBs.
 * Operation of wire bonder
 * KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
-* ..... to be added
 
-
-<!-- Publications
+Publications
 ======
-  <ul>{% for post in site.publications %}
+*  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Volunteering Experiences
+======
+*
+*
+
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
