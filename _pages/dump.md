@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research project that was never made public. Partly due to external factors that was uncooperative. 
+Research project that was never made public. 
 
 Now I am just going to leave my ideas, efforts and results here so that people might know that I have actually worked on it.
 
@@ -44,15 +44,15 @@ all of these are slides was prepared for internal meeting. Apologies for the lon
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-01-29.pdf>
 
-![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-02.jpg){:height="50%" width="50%"}
-![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-04.jpg){:height="50%" width="50%"}
-![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-05.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-1.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-2.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-3.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-4.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-5.jpg){:height="50%" width="50%"}
 
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-03-12.pdf>
 
-![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-02.jpg){:height="50%" width="50%"}
-![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-04.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-1.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-2.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-3.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-4.jpg){:height="50%" width="50%"}
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-06-14.pdf>
 
