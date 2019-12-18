@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Ken Lee Hideout"
+title                    : "Ken Lee"
 title_separator          : "-"
 name                     : &name "Ken Lee"
-description              : &description "PhD student at Department of Physics, Osaka University"
+description              : &description "soon to be ex PhD student at Department of Physics, Osaka University"
 url                      : https://hareyakana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hareyakana/hareyakana.github.io"
