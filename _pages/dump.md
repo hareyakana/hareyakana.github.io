@@ -7,29 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Research project that was never made public. 
-
-I could have work on it alone and get it release it on Arxiv but due to the nature of the data used in the studies, I needed the permission of various people that was uncoorperative. 
+Research project that was never made public. Partly due to external factors that was uncooperative. 
 
 Now I am just going to leave my ideas, efforts and results here so that people might know that I have actually worked on it.
 
 Most of the work here are incomplete or represent the early stages of project. The files are hosted on my personal github.
-
-Machine learning in waveform analysis
-=====
-all of these are slides was prepared for internal meeting.
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Proposal.pdf>
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-01-29.pdf>
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-03-12.pdf>
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-06-14.pdf>
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-06-23.pdf>
-
-<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/slides.pdf>
 
 Operating Manual of *Oxford Instruments Triton 300* Dilution Refrigerator
 ====
@@ -37,3 +19,80 @@ I was the main and solo operator of the Dilution refrigerator unit in my group. 
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-TritonKnowHow.pdf>
 
+Machine learning in waveform analysis
+=====
+all of these are slides was prepared for internal meeting. Apologies for the long loading times as I figured it would be better for anyone just have a glance of all of it without clicking each link to respective slides.
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Proposal.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-02.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-04.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-05.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-06.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-07.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-08.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-09.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-10.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-11.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-12.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-13.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-14.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-15.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-16.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-17.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-18.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-19.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-20.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-21.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-22.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-23.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-24.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-25.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-26.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-27.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-28.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-29.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-30.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Proposal-31.jpg){:height="50%" width="50%"}
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-01-29.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-02.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-04.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-01-29-05.jpg){:height="50%" width="50%"}
+
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-03-12.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-02.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-03-12-04.jpg){:height="50%" width="50%"}
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-06-14.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-02.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-04.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-05.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-06.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-07.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-08.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-09.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-10.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-11.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-12.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-13.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-14.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-15.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-16.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-17.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-18.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-19.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-20.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-21.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-22.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-23.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-24.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-25.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-26.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-27.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-28.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-29.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-30.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-31.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-32.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-33.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-34.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-35.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-36.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-37.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-38.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-39.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-14-40.jpg){:height="50%" width="50%"}
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-06-23.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-01.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-02.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-03.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-04.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-05.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-06.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-07.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-08.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-09.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-10.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-11.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-12.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-13.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-14.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-15.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-16.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-17.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-18.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-19.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-20.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-21.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/Ken2018-06-23-22.jpg){:height="50%" width="50%"}
+
+<https://github.com/hareyakana/hareyakana.github.io/blob/master/files/slides.pdf>
+
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-1.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-2.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-3.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-4.jpg){:height="50%" width="50%"}
+![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-5.jpg){:height="50%" width="50%"}![](https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/files/slides-6.jpg){:height="50%" width="50%"}
