@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * A levels, Tunku Abdul Rahman College, Malaysia, 2011
-* Master of Physics, University of Southampton, United Kingdom, 2016
+* Master of Physics(MPhys), University of Southampton, United Kingdom, 2016
   * "Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
 * Experimental Physics, Osaka University, Japan, 2020/03, 単位修得退学/withdrawal with credit 
 
@@ -21,7 +21,7 @@ Work experience
 * Summer 2014: Internship at Oxford Instruments
   * Funded by Excel Southampton
   * Under the umbrella of SEPnet Summer Internship Program
-  * Presented Internship work at SEPnet Poster Exhibition 2014(London)
+  * Presented at SEPnet Poster Exhibition 2014(Royal Academy of Engineering, London)
   * Shrink fit studies of superconducting magnets for cryogenics systems.
   * Supervised by Daniel Strange
 * Oct 2019 - Mar 2020: Research Assistant at Osaka University
