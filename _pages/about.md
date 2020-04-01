@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Soon to be ex Ph.D. student at Department of Physics, Graduate School of Science, Osaka University, Japan. 
-
-Contact me if you have a job opportunity for me.
+Looking to start afresh
 =====
 
 Previous Research Project/Experiences
