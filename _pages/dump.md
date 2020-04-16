@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Past research project"
+title: "Personal research projects"
 permalink: /landfill/
 author_profile: true
 ---
-
-{% include base_path %}
 
 Research project that was never made public. 
 
