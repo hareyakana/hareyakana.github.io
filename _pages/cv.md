@@ -32,25 +32,29 @@ Scholarships/Funding received
 * ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
 * ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University(2016-2019)
 
-Experiences
-======
-* Operation and maintenance of dry/cryo-free dilution refrigerator (includes high vacuum systems)
-* Development of cryogenic calorimeter for rare decay detection
-* Machine learning in experimental physics
-  - Supervised learning for event classification
-  - Unsupervised learning for rare physics event search/troubleshooting
-* Undertaken Shift work at Kamioka Observatory, ~3+ months (cumulative)
-* Simulation studies for particle physics research
-* Operation of wire bonder
-* KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
-
 Presentation and Conferences
 ======
 * "Development of Scintillating Bolometer for CANDLES"(poster) co-authored at International workshop on Revealing the history of the universe with underground particle and nuclear research Tohoku 2019
 * "Bolometer Development using Neutron Transmutation Doped Ge in CANDLES for the study of Neutrinoless Double Beta Decay" main presenter at JPS Autumn 2019 Meeting
 * "Status of 48Ca double beta decay search and its future prospect in CANDLES" co-presenter at TAUP 2019
 
-
+Previous Research Project/Experiences
+=====
+* Operation and maintenance of dry/cryo-free dilution refrigerator (includes high vacuum systems)
+* Machine learning in experimental physics
+  - Supervised learning for event classification
+  - Unsupervised learning for rare physics event search/troubleshooting
+* Unsupervised Learning in experimental physics data analysis for Anomaly detection
+* Undertaken Shift work at Kamioka Observatory, ~3+ months (cumulative)
+* Simulation studies for particle physics research
+* Operation of wire bonder
+* KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
+* MPhys thesis on "Flavor Composition and Energy Spectrum of Astrophysical Neutrino at IceCube"
+* Cryogenic Bolometer development for neutrino-less double beta detection - cryogenics sensor
+* Shrink fit design and testing of cryogenic superconducting magnet 
+* Undergraduate dissertation on Plasmonics, Photonics
+* Extensive research and understanding in the area of neutrino physics, low-background physics
+* Volunteered in 2 separates occasion in facilitating English camp for underprivileged primary school children in Thailand.
 <!--Talks
 ======
   <ul>{% for post in site.talks %}
