@@ -1,25 +1,27 @@
 ---
 layout: archive
-title: "Personal research projects"
+title: "Unpublished personal research projects"
 permalink: /landfill/
 author_profile: true
 ---
 
-Research project that was never made public. 
+**DISCLAIMER:-**The machine learning initiative projects are carried out independently by myself. The projects was unable to be proceeded as the data used for this research were from collaborative physics experiments. I was also unable to proceed the research using the data from it due to resource restrictions and was prohibited by my supervisor. However I decided to release my own personal work in my Github pages   
 
-Now I am just going to leave my ideas, efforts and results here so that people might know that I have actually worked on it.
-
-Most of the work here are incomplete or represent the early stages of project. The files are hosted on my personal github.
+The files are hosted on my personal Github.
 
 Operating Manual of *Oxford Instruments Triton 300* Dilution Refrigerator
 ====
-I was the main and solo operator of the Dilution refrigerator unit in my group. I wrote this for future operation of the refrigerator when I am no longer around.
+I was the main and sole operator of the Dilution refrigerator unit in my group. 
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Ken2018-TritonKnowHow.pdf>
 
+C++ scripts used for data analysis
+=====
+<https://github.com/hareyakana/candles_scripts>
+
 Machine learning in waveform analysis
 =====
-all of these are slides was prepared for internal meeting. Apologies for the long loading times as I figured it would be better for anyone just have a glance of all of it without clicking each link to respective slides.
+All of these slides was prepared for internal meeting. All of the slides are my work.
 
 <https://github.com/hareyakana/hareyakana.github.io/blob/master/files/Proposal.pdf>
 
