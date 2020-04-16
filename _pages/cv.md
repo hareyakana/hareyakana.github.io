@@ -55,19 +55,4 @@ Previous Research Project/Experiences
 * Undergraduate dissertation on Plasmonics, Photonics
 * Extensive research and understanding in the area of neutrino physics, low-background physics
 * Volunteered in 2 separates occasion in facilitating English camp for underprivileged primary school children in Thailand.
-<!--Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
  -->
