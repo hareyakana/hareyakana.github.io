@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Ken Lee"
 title_separator          : "-"
 name                     : &name "Ken Lee"
-description              : &description "soon to be ex PhD student at Department of Physics, Osaka University"
+description              : &description "Scientist -> Engineer & ML enthusiast"
 url                      : https://hareyakana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hareyakana/hareyakana.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ken Keong LEE"
   avatar           : "https://raw.githubusercontent.com/hareyakana/hareyakana.github.io/master/images/danny.png"
-  bio              : "Looking for new opportunity"
+  bio              : "Scientist->Engineer&ML enthusiast"
   location         : "Osaka, Japan"
   employer         :
   googlescholar    : 
-  email            : "ken@km.phys.sci.osaka-u.ac.jp, kkl2g12@soton.ac.uk"
+  email            : "hareyakana@gmail.com, kkl2g12@soton.ac.uk"
   uri              :
   bitbucket        :
   codepen          :

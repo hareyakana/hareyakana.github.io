@@ -9,28 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* A levels, Tunku Abdul Rahman College, Malaysia, 2011
-* Master of Physics(MPhys), University of Southampton, United Kingdom, 2016
-  * "Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
-* Experimental Physics, Osaka University, Japan, 2020/03, 単位修得退学/withdrawal with credit 
-
 Work experience
 ======
+* Aug 2020 ~ Engineer at ZJP
+* Oct 2019 - Mar 2020: Research Assistant at Osaka University
 * Summer 2014: Internship at Oxford Instruments
   * Funded by Excel Southampton
   * Under the umbrella of SEPnet Summer Internship Program
   * Presented at SEPnet Poster Exhibition 2014(Royal Academy of Engineering, London)
   * Shrink fit studies of superconducting magnets for cryogenics systems.
   * Supervised by Daniel Strange
-* Oct 2019 - Mar 2020: Research Assistant at Osaka University
+
+Education
+======
+* Master of Physics(MPhys), University of Southampton, United Kingdom, 2016
+  * "Flavour Composition and Energy Spectrum of Astrophysical Neutrino at IceCube", Supervised by Pasquale Di Bari
+* Experimental Physics, Osaka University, Japan, 2020/03, 単位修得退学/withdrawal with credit 
+* A levels, Tunku Abdul Rahman College, Malaysia, 2011
 
 Scholarships/Funding received
 ======
-* Full tuition exemption for A levels studies at Tunku Abdul Rahman College (2011-2012)
-* ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
 * ~¥5,328,000 MEXT Scholarship for PhD studies at Osaka University(2016-2019)
+* ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
+* Full tuition exemption for A levels studies at Tunku Abdul Rahman College (2011-2012)
 
 Presentation and Conferences
 ======
@@ -55,4 +56,3 @@ Previous Research Project/Experiences
 * Undergraduate dissertation on Plasmonics, Photonics
 * Extensive research and understanding in the area of neutrino physics, low-background physics
 * Volunteered in 2 separates occasion in facilitating English camp for underprivileged primary school children in Thailand.
- -->

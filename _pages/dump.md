@@ -5,7 +5,7 @@ permalink: /landfill/
 author_profile: true
 ---
 
-**DISCLAIMER:-**The machine learning initiative projects are carried out independently by myself. The projects was unable to be proceeded as the data used for this research were from collaborative physics experiments. I was also unable to proceed the research using the data from it due to resource restrictions and was prohibited by my supervisor. However I decided to release my own personal work in my Github pages   
+**DISCLAIMER:-**The machine learning initiative projects are carried out independently by myself. The projects was unable to be proceeded as the data used for this research were from collaborative physics experiments. I was unable to proceed the research using the data from it due to resource restrictions and red tapes relating to publishing. However I decided to release my portion of my own personal work in my Github pages.
 
 The files are hosted on my personal Github.
 
