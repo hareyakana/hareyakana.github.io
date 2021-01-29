@@ -19,4 +19,4 @@ About myself
 
  Sept 2016, moved to Japan for post-graduate studies at Osaka University under 3 years MEXT(文部科学省) scholarship grant from the Japanese government.
 
- Aug 2020, join R&D department at ZJP as an engineer. 
+ Aug 2020, joined R&D department at ZJP as an engineer. 
