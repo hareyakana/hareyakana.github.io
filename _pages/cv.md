@@ -38,7 +38,7 @@ Presentation and Conferences, publications
 * "Development of Scintillating Bolometer for CANDLES"(poster) co-authored at International workshop on Revealing the history of the universe with underground particle and nuclear research Tohoku 2019
 * "Bolometer Development using Neutron Transmutation Doped Ge in CANDLES for the study of Neutrinoless Double Beta Decay" main presenter at JPS Autumn 2019 Meeting
 * "Status of 48Ca double beta decay search and its future prospect in CANDLES" co-presenter at TAUP 2019
-* "Low background measurement in CANDLES-III for studying the neutrino-less double beta decay of <sup>^{48}</sup>Ca" CANDLES Collaboration 
+* "Low background measurement in CANDLES-III for studying the neutrino-less double beta decay of <sup>48</sup>Ca" CANDLES Collaboration 
 
 Previous Research Project/Experiences/Skills
 =====
