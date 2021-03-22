@@ -33,13 +33,14 @@ Scholarships/Funding received
 * ~£12,000 Undergraduate Merit Scholarship at University of Southampton(2012-2016)
 * Full tuition exemption for A levels studies at Tunku Abdul Rahman College (2011-2012)
 
-Presentation and Conferences
+Presentation and Conferences, publications
 ======
 * "Development of Scintillating Bolometer for CANDLES"(poster) co-authored at International workshop on Revealing the history of the universe with underground particle and nuclear research Tohoku 2019
 * "Bolometer Development using Neutron Transmutation Doped Ge in CANDLES for the study of Neutrinoless Double Beta Decay" main presenter at JPS Autumn 2019 Meeting
 * "Status of 48Ca double beta decay search and its future prospect in CANDLES" co-presenter at TAUP 2019
+* "Low background measurement in CANDLES-III for studying the neutrino-less double beta decay of ^{48} ^{48}Ca" CANDLES Collaboration 
 
-Previous Research Project/Experiences
+Previous Research Project/Experiences/Skills
 =====
 * Operation and maintenance of dry/cryo-free dilution refrigerator (includes high vacuum systems)
 * Machine learning in experimental physics
@@ -50,7 +51,6 @@ Previous Research Project/Experiences
 * Simulation studies for particle physics research
 * Operation of wire bonder
 * KiCAD, CAD(Fusion360), ROOT(cern), Geant4, PyTorch, LaTeX, Git, Python/C++, LabView
-* MPhys thesis on "Flavor Composition and Energy Spectrum of Astrophysical Neutrino at IceCube"
 * Cryogenic Bolometer development for neutrino-less double beta detection - cryogenics sensor
 * Shrink fit design and testing of cryogenic superconducting magnet 
 * Undergraduate dissertation on Plasmonics, Photonics

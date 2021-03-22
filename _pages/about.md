@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Looking to start afresh - A PhD dropout journey for redemption
-=====
+Solving problems one at a time, learning through problems, maturing with problems
+=======
 
 About myself
 ======
- Born in 1993 and raised in Kuala Lumpur, Malaysia until the age of 18. 
+ Born in 1993 and raised in Kuala Lumpur, Malaysia until the age of 19. 
 
  Sept 2012, pursued undergraduate studies at University of Southampton, UK for 4 years. 
 
